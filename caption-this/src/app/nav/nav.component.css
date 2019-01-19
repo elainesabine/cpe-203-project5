@@ -1,0 +1,53 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+.navbar {
+    margin-top: 100px;
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+
+/* Style the navigation menu */
+.navbar {
+    width: 95%;
+    background-color: #e05523e9;
+    overflow: auto;
+  }
+
+
+/* Navigation links */
+.navbar a {
+    float: left;
+    padding: 15px;
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    width: 22.78%; 
+    text-align: center;
+  }
+
+/* Add a background color on hover */
+.navbar a:hover {
+    background-color: rgba(253, 167, 121, 0.982);
+  }
+
+  /* Style the current/active link ??? */
+.nav a.active {
+    background-color: rgb(240, 120, 120);
+    color: #444;
+    cursor: default;
+  }
+  
+/* Add responsiveness - on screens less than 500px, make the navigation links appear on top of each other, instead of next to each other */
+@media screen and (max-width: 500px) {
+    .navbar a {
+      float: none;
+      display: block;
+      width: 100%;
+      text-align: left; /* If you want the text to be left-aligned on small screens */
+    }
+  }
+  
