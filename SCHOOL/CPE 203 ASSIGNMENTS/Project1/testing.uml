@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="1503.0" y="2201.0">com</node>
+    <node x="414.0" y="0.0">Entity</node>
+    <node x="2058.0" y="2062.0">netscape</node>
+    <node x="1040.0" y="1724.0">Action</node>
+    <node x="972.0" y="0.0">VirtualWorld</node>
+    <node x="1031.0" y="2201.0">icon</node>
+    <node x="0.0" y="0.0">WorldModel</node>
+    <node x="871.0" y="2062.0">toolbarButtonGraphics</node>
+    <node x="1655.0" y="2201.0">sun</node>
+    <node x="1590.0" y="1724.0">EventScheduler</node>
+    <node x="336.0" y="2062.0">EventComparator</node>
+    <node x="0.0" y="1724.0">ImageStore</node>
+    <node x="533.0" y="2201.0">apple</node>
+    <node x="1399.0" y="2062.0">groovyjarjarasm</node>
+    <node x="1190.0" y="2201.0">java</node>
+    <node x="699.0" y="2201.0">javax</node>
+    <node x="1420.0" y="1724.0">EntityKind</node>
+    <node x="187.0" y="2201.0">images</node>
+    <node x="865.0" y="2201.0">junit</node>
+    <node x="175.0" y="2062.0">ActionKind</node>
+    <node x="1944.0" y="1724.0">Background</node>
+    <node x="1807.0" y="2201.0">org</node>
+    <node x="806.0" y="1724.0">WorldView</node>
+    <node x="523.0" y="1724.0">Viewport</node>
+    <node x="1349.0" y="2201.0">Functions</node>
+    <node x="1461.0" y="0.0">Point</node>
+    <node x="1959.0" y="2201.0">jdk</node>
+    <node x="0.0" y="2201.0">META-INF</node>
+    <node x="360.0" y="2201.0">groovy</node>
+    <node x="1857.0" y="2062.0">processing</node>
+    <node x="0.0" y="2062.0">Event</node>
+    <node x="586.0" y="2062.0">groovyjarjarcommonscli</node>
+    <node x="1149.0" y="2062.0">groovyjarjarantlr</node>
+    <node x="1635.0" y="2062.0">japplemenubar</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.7500929571401709" x="605.9077979447363" y="774.9437369178902" />
+  <SelectedNodes>
+    <node>WorldModel</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
